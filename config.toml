@@ -54,7 +54,7 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Este blog é o meu espaço pessoal para compartilhar aprendizados na área de TI, com foco em Infraestrutura, Segurança, Cloud Computing, Linux e Redes. Aqui, vou registrar minhas descobertas, experiências e soluções para desafios do cotidiano nesse universo. A ideia é criar uma espécie de "palácio da memória" digital, onde vou organizar e compartilhar tudo o que vou aprendendo de forma simples e prática. Se você também está nessa jornada de aprendizado, sinta-se à vontade para explorar os artigos e acompanhar esse processo."
+  description = "Este blog é o meu espaço pessoal para compartilhar aprendizados na área de TI, com foco em Infraestrutura, Segurança, Cloud Computing, Linux e Redes. Aqui, vou registrar minhas descobertas,    experiências e soluções para desafios do cotidiano nesse universo. A ideia é criar uma espécie de palácio da memória digital, onde vou organizar e compartilhar tudo o que vou aprendendo de forma simples e    prática. Se você também está nessa jornada de aprendizado, sinta-se à vontade para explorar os artigos e acompanhar esse processo."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
