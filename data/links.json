@@ -1,0 +1,25 @@
+{
+  "list": [
+    {
+      "name": "The News CC",
+      "url": "https://thenewscc.beehiiv.com/subscribe?ref=k74gv2Trp8",
+      "desc": "Assine a newsletter do The News CC para se manter atualizado sobre notícias relevantes e tendências de tecnologia."
+    },
+    {
+      "name": "Explain Shell",
+      "url": "https://explainshell.com/",
+      "desc": "Uma ferramenta útil para entender o que cada parte de um comando shell faz, explicando sua sintaxe e funcionalidade."
+    },
+    {
+      "name": "It's FOSS Newsletter",
+      "url": "https://itsfoss.com/newsletter/",
+      "desc": "Receba as últimas notícias sobre Linux, software de código aberto e recursos relacionados diretamente na sua caixa de entrada."
+    },
+    {
+      "name": "Crontab Guru",
+      "url": "https://crontab.guru/?ref=itsfoss.com",
+      "desc": "Uma ferramenta interativa que ajuda a entender e criar expressões de cron, útil para agendar tarefas no Linux."
+    }
+  ]
+}
+
