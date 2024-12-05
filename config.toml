@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Bits de Conhecimento"
 theme = "cactus"
 copyright = "Manoel Augusto" # cactus will use title if copyright is not set
-disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+#disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
 
@@ -50,7 +50,7 @@ weight = 4
 
   colortheme = "dark" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
-  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+#  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
   showAllPostsArchive = false # default
 
   # Home page settings
